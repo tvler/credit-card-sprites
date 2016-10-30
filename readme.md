@@ -1,8 +1,8 @@
-# Credit Card Sprites
+# [Credit Card Sprites](https://dribbble.com/shots/3058779-Credit-Card-Sprites-Updated-MasterCard-Logo)
 
 Credit card sprites optimized for **1x** and **2x** resolution at **32**, **64** and **128px**.
 
-Designed by <a href="https://github.com/tgines">@tgines</a>.
+Designed by [@tgines](https://github.com/tgines).
 
 <img src="dribbble.png" alt="credit card sprites" width="400" height="300">
 
