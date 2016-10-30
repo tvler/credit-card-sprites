@@ -2,7 +2,7 @@
 
 Credit card sprites optimized for 128px, 64px and 32px.
 
-<img src="dribbble.png" alt="visa sprite" width="400" height="300">
+<img src="dribbble.png" alt="credit card sprites" width="400" height="300">
 
 -
 **32px x 21px**
@@ -47,4 +47,4 @@ Credit card sprites optimized for 128px, 64px and 32px.
 <img src="256/discover.png" alt="discover sprite" width="265" height="168">
 <img src="256/dinersclub.png" alt="dinersclub sprite" width="265" height="168">
 
-_256 is available to allow a 2x resolution size for 128._
+_256 is available for a 2x resolution at 128._
