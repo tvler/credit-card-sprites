@@ -4,7 +4,7 @@ Credit card sprites optimized for **1x** and **2x** resolution at **32**, **64**
 
 Designed by [@tgines](https://github.com/tgines).
 
-<img src="dribbble.png" alt="credit card sprites" width="400" height="300">
+<a href="https://dribbble.com/shots/3058779-Credit-Card-Sprites-Updated-MasterCard-Logo"><img src="dribbble.png" alt="credit card sprites" width="400" height="300"></a>
 
 -
 **32px x 21px**
