@@ -1,6 +1,8 @@
 # Credit Card Sprites
 
-Credit card sprites optimized for 128px, 64px and 32px.
+Credit card sprites optimized for **1x** and **2x** resolution display at **128px**, **64px** and **32px**.
+
+Designed by <a href="https://github.com/tgines">@tgines</a>.
 
 <img src="dribbble.png" alt="credit card sprites" width="400" height="300">
 
