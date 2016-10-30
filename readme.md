@@ -1,6 +1,6 @@
 # Credit Card Sprites
 
-Credit card sprites optimized for **1x** and **2x** resolution at **32**, **62** and **128px**.
+Credit card sprites optimized for **1x** and **2x** resolution at **32**, **64** and **128px**.
 
 Designed by <a href="https://github.com/tgines">@tgines</a>.
 
