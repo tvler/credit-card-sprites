@@ -27,7 +27,7 @@ Credit card sprites optimized for 128px, 64px and 32px.
 <img src="256/dinersclub.png" alt="dinersclub sprite" width="128" height="84">
 
 | Width | Height |
-| - |
+| --- | --- |
 | 32 | 21 |
 | 64 | 42 |
 | 128 | 84 |
