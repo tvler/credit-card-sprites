@@ -11,7 +11,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details open>
    <summary>_1x_</summary>
-   <img src="32/visa.png" alt="visa sprite" width="32" height="21">
+   > <img src="32/visa.png" alt="visa sprite" width="32" height="21">
    <img src="32/mastercard.png" alt="mastercard sprite" width="32" height="21">
    <img src="32/amex.png" alt="amex sprite" width="32" height="21">
    <img src="32/jcb.png" alt="jcb sprite" width="32" height="21">
@@ -21,7 +21,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details>
   <summary>_2x_</summary>
-  <img src="64/visa.png" alt="visa sprite" width="32" height="21">
+  > <img src="64/visa.png" alt="visa sprite" width="32" height="21">
   <img src="64/mastercard.png" alt="mastercard sprite" width="32" height="21">
   <img src="64/amex.png" alt="amex sprite" width="32" height="21">
   <img src="64/jcb.png" alt="jcb sprite" width="32" height="21">
@@ -34,7 +34,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details open>
    <summary>_1x_</summary>
-   <img src="64/visa.png" alt="visa sprite" width="64" height="42">
+   > <img src="64/visa.png" alt="visa sprite" width="64" height="42">
    <img src="64/mastercard.png" alt="mastercard sprite" width="64" height="42">
    <img src="64/amex.png" alt="amex sprite" width="64" height="42">
    <img src="64/jcb.png" alt="jcb sprite" width="64" height="42">
@@ -44,7 +44,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details>
   <summary>_2x_</summary>
-  <img src="128/visa.png" alt="visa sprite" width="64" height="42">
+  > <img src="128/visa.png" alt="visa sprite" width="64" height="42">
   <img src="128/mastercard.png" alt="mastercard sprite" width="64" height="42">
   <img src="128/amex.png" alt="amex sprite" width="64" height="42">
   <img src="128/jcb.png" alt="jcb sprite" width="64" height="42">
@@ -57,7 +57,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details open>
    <summary>_1x_</summary>
-   <img src="128/visa.png" alt="visa sprite" width="128" height="84">
+   > <img src="128/visa.png" alt="visa sprite" width="128" height="84">
    <img src="128/mastercard.png" alt="mastercard sprite" width="128" height="84">
    <img src="128/amex.png" alt="amex sprite" width="128" height="84">
    <br>
@@ -68,7 +68,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details>
   <summary>_2x_</summary>
-  <img src="256/visa.png" alt="visa sprite" width="128" height="84">
+  > <img src="256/visa.png" alt="visa sprite" width="128" height="84">
   <img src="256/mastercard.png" alt="mastercard sprite" width="128" height="84">
   <img src="256/amex.png" alt="amex sprite" width="128" height="84">
   <br>
@@ -82,7 +82,7 @@ Designed by [@tgines](https://github.com/tgines).
 
 <details open>
    <summary>_1x_</summary>
-   <img src="256/visa.png" alt="visa sprite" width="265" height="168">
+   > <img src="256/visa.png" alt="visa sprite" width="265" height="168">
    <img src="256/mastercard.png" alt="mastercard sprite" width="265" height="168">
    <br>
    <img src="256/amex.png" alt="amex sprite" width="265" height="168">
