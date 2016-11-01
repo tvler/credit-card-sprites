@@ -70,7 +70,6 @@ Designed by [@tgines](https://github.com/tgines).
   > <img src="256/visa.png" alt="visa sprite" width="128">
   <img src="256/mastercard.png" alt="mastercard sprite" width="128">
   <img src="256/amex.png" alt="amex sprite" width="128">
-  <br>
   <img src="256/jcb.png" alt="jcb sprite" width="128">
   <img src="256/discover.png" alt="discover sprite" width="128">
   <img src="256/dinersclub.png" alt="dinersclub sprite" width="128">
