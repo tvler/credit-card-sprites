@@ -1,10 +1,10 @@
 # [Credit Card Sprites](https://dribbble.com/shots/3058779-Credit-Card-Sprites-Updated-MasterCard-Logo)
 
+<a href="https://dribbble.com/shots/3058779-Credit-Card-Sprites-Updated-MasterCard-Logo"><img src="dribbble.png" alt="credit card sprites" width="400"></a>
+
 Credit card sprites optimized for **1x** and **2x** resolution at **32**, **64** and **128px**.
 
 Designed by [@tgines](https://github.com/tgines).
-
-<a href="https://dribbble.com/shots/3058779-Credit-Card-Sprites-Updated-MasterCard-Logo"><img src="dribbble.png" alt="credit card sprites" width="400"></a>
 
 -
 **32px x 21px**
