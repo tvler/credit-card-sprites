@@ -6,7 +6,7 @@ Credit card sprites optimized for **1x** and **2x** resolution at **32**, **64**
 
 Designed by [@tgines](https://github.com/tgines).
 
-**32px x 21px**
+## 32px x 21px
 
 <details open>
    <summary><code>1x</code></summary>
@@ -28,7 +28,7 @@ Designed by [@tgines](https://github.com/tgines).
   <img src="64/dinersclub.png" alt="dinersclub sprite" width="32">
 </details>
 
-**64px x 42px**
+## 64px x 42px
 
 <details open>
    <summary><code>1x</code></summary>
@@ -50,7 +50,7 @@ Designed by [@tgines](https://github.com/tgines).
   <img src="128/dinersclub.png" alt="dinersclub sprite" width="64">
 </details>
 
-**128px x 84px**
+## 128px x 84px
 
 <details open>
    <summary><code>1x</code></summary>
@@ -72,7 +72,7 @@ Designed by [@tgines](https://github.com/tgines).
   <img src="256/dinersclub.png" alt="dinersclub sprite" width="128">
 </details>
 
-**256px x 168px**
+## 256px x 168px
 
 <details open>
    <summary><code>1x</code></summary>
