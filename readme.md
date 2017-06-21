@@ -71,17 +71,3 @@ Designed by [@tgines](https://github.com/tgines).
   <img src="256/discover.png" alt="discover sprite" width="128">
   <img src="256/dinersclub.png" alt="dinersclub sprite" width="128">
 </details>
-
-## 256px x 168px
-
-<details open>
-   <summary><code>1x</code></summary>
-   <img src="256/visa.png" alt="visa sprite" width="265">
-   <img src="256/mastercard.png" alt="mastercard sprite" width="265">
-   <img src="256/amex.png" alt="amex sprite" width="265">
-   <img src="256/jcb.png" alt="jcb sprite" width="265">
-   <img src="256/discover.png" alt="discover sprite" width="265">
-   <img src="256/dinersclub.png" alt="dinersclub sprite" width="265">
-</details>
-
-_256 is available for a 2x resolution at 128._
